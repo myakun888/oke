@@ -1,0 +1,3 @@
+[submodule "gremote"]
+	path = gremote
+	url = git@github.com:myakun888/belajar-git-remote.git
